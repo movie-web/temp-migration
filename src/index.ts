@@ -1,7 +1,7 @@
 import { initialize } from "@/init";
 import "./styles.css";
 
-const newDomainUrl = "https://movie-web.app/?migrated=1";
+const newDomainUrl = "https://movie-web.app/search/movie?migrated=1";
 
 let isChildOfParent = false;
 try {
